@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "170813877180",
+    "project_id": "placar-de-truco-9e940",
+    "storage_bucket": "placar-de-truco-9e940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170813877180:android:b2561af4a0e9fe2017d9b9",
+        "android_client_info": {
+          "package_name": "com.ghostapps.trucoscore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170813877180-feivljfuj9b9mu20msvolpt9d588ipfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ghostapps.trucoscore",
+            "certificate_hash": "c6ad8d9384ffb7f9e5e92db0a00745b3e3a0ce53"
+          }
+        },
+        {
+          "client_id": "170813877180-ojqt9thekrps4vp5ru14urpbaolp0727.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ziHVagusrrZeyZe7aN0OAD2ML3-YVZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170813877180-ojqt9thekrps4vp5ru14urpbaolp0727.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

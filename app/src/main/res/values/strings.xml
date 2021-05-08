@@ -1,16 +1,16 @@
 <resources>
-    <string name="app_name">PebolimPlacar</string>
+<string name="app_name">TRUCO SCORE</string>
 
-    <string name="homeMessage">Make your matches amazing</string>
-    <string name="homeNewGame">New Game</string>
-    <string name="homeExit">Exit</string>
+    <string name="homeMessage">Placar de Truco </string>
+    <string name="homeNewGame">Novo Jogo</string>
+    <string name="homeRecords">Recordes</string>
+    <string name="homeExit">Sair</string>
 
 
-    <string name="preGameHomeTeamLabel">Home team:</string>
-    <string name="preGameAwayTeamLabel">Away team:</string>
-    <string name="preGameStart">Start match</string>
+    <string name="preGameHomeTeamLabel">Dupla 01</string>
+    <string name="preGameAwayTeamLabel">Dupla 02</string>
+    <string name="preGameStart">Iniciar Partida</string>
 
-    <string name="scoreGameExit">Exit</string>
-
+    <string name="scoreGameExit">Sair</string>
 
 </resources>
